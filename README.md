@@ -1,3 +1,5 @@
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&width=435&lines=Hey+%F0%9F%91%8B%2CIt's+Om+Kathar+Here+)](https://git.io/typing-svg)
 
 # 💫 About Me:
